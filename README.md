@@ -21,6 +21,7 @@
 
 3. **多文档文本编辑器**  
    支持多标签文本编辑功能，集成 AI 写作助手，可完成以下任务：
+   - 完善的样式编辑、保存读取功能（由@Susuko实现）
    - 续写，总结等
    - 聊天对话
    - 画布
@@ -29,9 +30,8 @@
 
 ## 运行方法
 
-:::warning
-您需要在ai.py、mtexteditor_interface.py中填写自己的OpenAI兼容API_KEY。在修改图像等资源时，请重新编译qrc文件。
-:::
+
+> 您需要在ai.py、mtexteditor_interface.py中填写自己的OpenAI兼容API_KEY。在修改图像等资源时，请重新编译qrc文件。
 
 1. **要求**  
    - Python 版本：`3.8` 及以上  
