@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Duke486/Fluent-Toys/blob/main/poster.jpg)
 
-本仓库收录了中国矿业大学“程序设计综合实践”课程的开发项目，包含以下内容。项目界面基于 [@zhiyiYo](https://qfluentwidgets.com/) 的 **QFluentWidget** 库，采用 Fluent Design 风格，支持 Mica 材质效果和暗色模式，为用户提供了现代化的视觉体验。
+项目界面基于 [@zhiyiYo](https://qfluentwidgets.com/) 的 **QFluentWidget** 库，采用 Fluent Design 风格，支持 Mica 材质效果和暗色模式，为用户提供了现代化的视觉体验。
 
 ## 项目列表
 
